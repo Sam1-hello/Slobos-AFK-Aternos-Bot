@@ -1,14 +1,14 @@
 {
-  "name": "Philows",
+  "name": "PhilowsBot",
   "bot-account": {
-    "username": "Philows",
+    "username": "PhilowsBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "LuminaraS-MP.aternos.me",
+    "ip": "LuminaraSMPMC.aternos.me",
     "port": 55216,
-    "version": "",
+    "version": "1.26.11",
     "try-creative": false
   },
   "position": {
@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "Bruh im a bot",
+        ":",
         ":(",
         ":)"
       ]
